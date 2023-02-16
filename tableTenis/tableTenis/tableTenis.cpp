@@ -1,6 +1,3 @@
-//BOUNCE - Made by PuperHacker
-//Created: 29/05/2019
-
 #include <iostream>
 #include <set>
 #include <windows.h>
