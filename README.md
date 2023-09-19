@@ -1,2 +1,2 @@
 # tableTenis
-C++ console game 
+C++ console table tenis game 
